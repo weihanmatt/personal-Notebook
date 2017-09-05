@@ -18,7 +18,7 @@
 
 ## Links
 
-- [Documentation](https://docsify.js.org)
+- [我叫罗云超](https://docsify.js.org)
 - [CLI](https://github.com/QingWei-Li/docsify-cli)
 - CDN: [UNPKG](https://unpkg.com/docsify/) | [jsDelivr](https://cdn.jsdelivr.net/npm/docsify/)
 
@@ -60,29 +60,29 @@ Modern browsers and Internet Explorer 10+.
 
 These projects are using docsify to generate their sites. Pull requests welcome :blush:
 
-| Project | Description |
-|---|---|
-| [Snipaste](https://docs.snipaste.com/) | Snip & Paste |
-| [puck](https://puck.zz173.com/) | A small & magical php framework. |
+| Project                                  | Description                              |
+| ---------------------------------------- | ---------------------------------------- |
+| [Snipaste](https://docs.snipaste.com/)   | Snip & Paste                             |
+| [puck](https://puck.zz173.com/)          | A small & magical php framework.         |
 | [Samaritan](http://samaritan.stockdb.org) | An Algorithmic Trading Framework for Digital Currency. |
 | [Vudash](http://vudash.github.io/vudash/) | Powerful, Flexible, Open Source dashboards for anything |
-| [Trilogy](http://trilogy.js.org) | No-hassle SQLite with a Promise-based, document store style API. |
-| [Mybatis-Plus](http://mp.baomidou.com/) | An enhanced toolkit of Mybatis to simplify development |
+| [Trilogy](http://trilogy.js.org)         | No-hassle SQLite with a Promise-based, document store style API. |
+| [Mybatis-Plus](http://mp.baomidou.com/)  | An enhanced toolkit of Mybatis to simplify development |
 | [JS MythBusters](https://mythbusters.js.org) | An optimization handbook from a high level point of view. |
-| [hire-me](https://fvcproductions.github.io/hire-me) | A path to getting an awesome tech gig. |
+| [hire-me](https://fvcproductions.github.io/hire-me) | A path to getting an awesome tech gig.   |
 | [vue-amap](https://elemefe.github.io/vue-amap/) | A Map Component Library Base on Vue 2.x and Gaode Map. |
-| [samlify](https://samlify.js.org) | Node.js SAML2 library |
-| [palettify](https://dobromir-hristov.github.io/palettify/) | A color palette effects assistant |
-| [commitlint](https://marionebl.github.io/commitlint/) | Lint commit messages |
+| [samlify](https://samlify.js.org)        | Node.js SAML2 library                    |
+| [palettify](https://dobromir-hristov.github.io/palettify/) | A color palette effects assistant        |
+| [commitlint](https://marionebl.github.io/commitlint/) | Lint commit messages                     |
 | [vue-data-tables](https://github.com/njleonzhang/vue-data-tables/) | A simple and customizable data table，based on vue2 and element-ui. |
-| [Noty](http://ned.im/noty/) | A Dependency-free notification library |
+| [Noty](http://ned.im/noty/)              | A Dependency-free notification library   |
 
 ## Similar projects
 
-| Project | Description |
-|---|---|
+| Project                                  | Description                              |
+| ---------------------------------------- | ---------------------------------------- |
 | [docute](https://github.com/egoist/docute) | 📜 Effortlessly documentation done right |
-| [docpress](https://github.com/docpress/docpress) | Documentation website generator |
+| [docpress](https://github.com/docpress/docpress) | Documentation website generator          |
 
 ## Contributing
 
